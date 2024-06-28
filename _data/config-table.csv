@@ -1,5 +1,12 @@
 field,display_name
 title,Title
 date,Date
-description,Description
-subject,Subjects
+subject,Genre
+publisher,Publisher
+location,Location
+editor,Editor
+creator,Contributor
+call_number,Call Number
+provenance,Provenance
+binding_description,Binding
+
