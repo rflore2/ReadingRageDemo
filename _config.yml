@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Reading Rage (Sam's Data) 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a database of German almanacs and Taschenbücher
+tagline: a database of German almanacs and Taschenbücher at the University of Chicago
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
